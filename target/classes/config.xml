@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectionSettings>
+	<Configuration>
+		<host>ldap://172.17.87.89:389</host>
+		<username>cn=admin,dc=example,dc=com</username>
+		<password>reverse</password>
+		<authentication>simple</authentication>
+		<provider_url>com.sun.jndi.ldap.LdapCtxFactory</provider_url>
+	</Configuration>
+</ConnectionSettings>
